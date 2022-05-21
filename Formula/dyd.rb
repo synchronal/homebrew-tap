@@ -2,7 +2,7 @@ class Dyd < Formula
   desc "Daily Diff"
   homepage "https://github.com/synchronal/dyd"
   license "MIT"
-  sha256 "b5a323a98cc61c35cd7d751bf81b67239b55e72f1919cd541a3ec51a39f481c5"
+  sha256 "3a45128366360e9732a2249e0fbcbf5c4bc0cd1140401193af14af8f7a183735"
   url "https://github.com/synchronal/dyd/releases/download/v0.3.1/dyd-darwin-arm64.tar.gz"
   revision 2
 
