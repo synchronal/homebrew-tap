@@ -2,9 +2,10 @@ class Dyd < Formula
   desc "Daily Diff"
   homepage "https://github.com/synchronal/dyd"
   license "MIT"
-  sha256 "943fc492c117acb10ff3964b6da710c87fe3f41ac18ee5d53f770874ff0c2134"
-  url "https://github.com/synchronal/dyd/releases/download/v0.4.0/dyd-darwin-universal.tar.gz"
-  revision 4
+  sha256 "9734a1192bb0878961323cdf61744971a7d8478b08ff98db21fa4aee5fb0431e"
+  url "https://github.com/synchronal/dyd/releases/download/v0.5.0/dyd-darwin-universal.tar.gz"
+  revision 1
+  version "0.5.0"
 
   def install
     bin.install "dyd"
