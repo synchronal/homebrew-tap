@@ -2,10 +2,10 @@ class Medic < Formula
   desc "Medic development workflow management"
   homepage "https://github.com/synchronal/medic-rs"
   license "MIT"
-  sha256 "4f392aceaa9d82d2cf1ddf68daa5f67df0f5381ae40050a9dc072a98d39469fb"
-  url "https://github.com/synchronal/medic-rs/releases/download/v0.1.0/medic-darwin-universal.tar.gz"
+  sha256 "2af126895ba279a5b54b63520bface87e0cb5d2e6a3c107cd05501f9bf94d337"
+  url "https://github.com/synchronal/medic-rs/releases/download/v0.2.0/medic-darwin-universal.tar.gz"
   revision 0
-  version "0.1.0"
+  version "0.2.0"
 
   depends_on "git"
 
