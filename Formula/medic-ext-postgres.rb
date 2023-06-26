@@ -2,10 +2,10 @@ class MedicExtPostgres < Formula
   desc "Medic extension pack: Postgres"
   homepage "https://github.com/synchronal/medic-ext-postgres"
   license "MIT"
-  sha256 "06893a27157706bc46f185348c733e3f63d1753ed367bc9740657a141af31f89"
-  url "https://github.com/synchronal/medic-ext-postgres/releases/download/v0.1.0/medic-ext-postgres-darwin-universal.tar.gz"
+  sha256 "cf30f1fa413e98ba222900bf426edea806ef20c9c301e8cc816d348ab7490525"
+  url "https://github.com/synchronal/medic-ext-postgres/releases/download/v0.1.1/medic-ext-postgres-darwin-universal.tar.gz"
   revision 0
-  version "0.1.0"
+  version "0.1.1"
 
   def install
     bin.install "medic-check-postgres"
