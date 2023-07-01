@@ -18,7 +18,7 @@ brew install synchronal/tap/<recipe>
 
 Available recipes:
 
-- `synchronal/tap/dyd` - daily diff CLI
+- [synchronal/tap/dyd](https://github.com/synchronal/dyd) - daily diff CLI.
 - [synchronal/tap/medic](https://github.com/synchronal/medic-rs) - a CLI for developer workflow management.
 - [synchronal/tap/medic-bash](https://github.com/synchronal/medic-bash) - Shell scripts for writing medic helpers in bash.
 - [synchronal/tap/medic-ext-elixir](https://github.com/synchronal/medic-ext-elixir) - Checks and steps for
