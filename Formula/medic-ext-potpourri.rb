@@ -7,6 +7,8 @@ class MedicExtPotpourri < Formula
   revision 0
   version "0.1.0"
 
+  depends_on "medic"
+
   def install
     bin.install "medic-check-hostess"
     bin.install "medic-check-phoenix"

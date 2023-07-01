@@ -7,6 +7,8 @@ class MedicExtNode < Formula
   revision 0
   version "0.2.0"
 
+  depends_on "medic"
+
   def install
     bin.install "medic-check-node"
   end
