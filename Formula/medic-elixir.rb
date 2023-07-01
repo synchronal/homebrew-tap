@@ -10,4 +10,8 @@ class MedicElixir < Formula
   version "0.1.0"
 
   depends_on "medic-ext-elixir"
+
+  def install
+    share.mkpath
+  end
 end

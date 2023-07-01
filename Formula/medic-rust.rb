@@ -10,4 +10,8 @@ class MedicRust < Formula
   version "0.2.1"
 
   depends_on "medic-ext-rust"
+
+  def install
+    share.mkpath
+  end
 end
