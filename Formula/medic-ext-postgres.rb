@@ -7,7 +7,7 @@ class MedicExtPostgres < Formula
   revision 0
   version "0.1.1"
 
-  depends_on "medic"
+  depends_on "medic-rs"
   depends_on "medic-bash"
 
   def install

@@ -7,7 +7,7 @@ class MedicExtGit < Formula
   revision 0
   version "0.2.1"
 
-  depends_on "medic"
+  depends_on "medic-rs"
 
   def install
     bin.install "medic-step-git"

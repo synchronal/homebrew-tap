@@ -4,10 +4,10 @@ class MedicExtHomebrew < Formula
   license "MIT"
   sha256 "c9576c61e387d94a4e4de9c59789b345023e3017de452b9ae720756801d073cc"
   url "https://github.com/synchronal/medic-ext-homebrew/releases/download/v0.2.0/medic-ext-homebrew-darwin-universal.tar.gz"
-  revision 0
+  revision 1
   version "0.2.0"
 
-  depends_on "medic"
+  depends_on "medic-rs"
 
   def install
     bin.install "medic-check-homebrew"
