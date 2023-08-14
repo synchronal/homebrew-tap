@@ -2,10 +2,10 @@ class MedicExtGit < Formula
   desc "Medic language pack: Git"
   homepage "https://github.com/synchronal/medic-ext-git"
   license "MIT"
-  sha256 "c878b0a63b700cff07481ca21ea3f0d09fb8f0e97bb2ac9571810801c1d5e710"
-  url "https://github.com/synchronal/medic-ext-git/releases/download/v0.2.1/medic-ext-git-darwin-universal.tar.gz"
-  revision 1
-  version "0.2.1"
+  sha256 "7c3333923cc26ca1308757c059927c2373537be63aaa694254afedcf34af6d81"
+  url "https://github.com/synchronal/medic-ext-git/releases/download/v0.2.2/medic-ext-git-darwin-universal.tar.gz"
+  revision 0
+  version "0.2.2"
 
   depends_on "medic-rs"
 
