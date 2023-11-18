@@ -2,10 +2,12 @@ class MedicExtRust < Formula
   desc "Medic language pack: Rust"
   homepage "https://github.com/synchronal/medic-rs"
   license "MIT"
-  sha256 "3563fada928bba3b51c93e35d599b44417dd8824f3da562759c934038ad275cc"
-  url "https://github.com/synchronal/medic-ext-rust/releases/download/v0.2.1/medic-ext-rust-darwin-universal.tar.gz"
-  revision 1
-  version "0.2.1"
+
+  revision 0
+  sha256 "ee5c999be19de9b88fdeef4d471fa03b4c744acbff7c867dc3acede1639f6382"
+  version "0.3.0"
+
+  url "https://github.com/synchronal/medic-ext-rust/releases/download/v#{version}/medic-ext-rust-darwin-universal.tar.gz"
 
   depends_on "medic-rs"
 
