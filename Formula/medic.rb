@@ -4,12 +4,12 @@ class Medic < Formula
   license "MIT"
   url "https://github.com/synchronal/medic-rs"
   revision 0
-  version "0.5.0"
+  version "1.1.0"
 
   depends_on "medic-rs"
-  depends_on "medic-ext-asdf"
   depends_on "medic-ext-git"
   depends_on "medic-ext-homebrew"
+  depends_on "medic-ext-tool-versions"
 
   def install
     share.mkpath
