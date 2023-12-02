@@ -4,8 +4,8 @@ class MedicRs < Formula
   license "MIT"
 
   revision 0
-  sha256 "1c431841c23ab58011853f6d2388e92fea134d7f908aba8efb67abbc9c0dfd0f"
-  version "2.0.1"
+  sha256 "806dc4fda1645b5f7abd780420e2eb55ec7dea5be8b0edd79eca6a8bdef50329"
+  version "2.1.0"
 
   url "https://github.com/synchronal/medic-rs/releases/download/v#{version}/medic-darwin-universal.tar.gz"
 
@@ -16,6 +16,7 @@ class MedicRs < Formula
     bin.install "medic-audit"
     bin.install "medic-doctor"
     bin.install "medic-init"
+    bin.install "medic-outdated"
     bin.install "medic-run"
     bin.install "medic-shipit"
     bin.install "medic-test"
