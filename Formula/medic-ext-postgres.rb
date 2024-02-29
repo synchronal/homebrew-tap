@@ -4,8 +4,8 @@ class MedicExtPostgres < Formula
   license "MIT"
 
   revision 0
-  sha256 "a8409d555d28f5cf6e57e7bddd2f58fe075ba014f33ded3599247ef65d5a46e3"
-  version "1.0.0"
+  sha256 "532be152075df1bcc7a4242d65048e6fda424c8000e47c890b5c9903f8abf043"
+  version "1.1.0"
 
   url "https://github.com/synchronal/medic-ext-postgres/releases/download/v#{version}/medic-ext-postgres-darwin-universal.tar.gz"
 
