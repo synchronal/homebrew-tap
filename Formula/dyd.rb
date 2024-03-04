@@ -4,8 +4,8 @@ class Dyd < Formula
   license "MIT"
 
   revision 0
-  sha256 "d895fc6b5f012be80857f550c49604b2fa7c3c0722ba1e80f831295fdbabb062"
-  version "1.8.0"
+  sha256 "cb9d4cdfd1724b1ab5b8e990c6700c36805333828035a5d380ccd71bfe131042"
+  version "1.8.1"
 
   url "https://github.com/synchronal/dyd/releases/download/v#{version}/dyd-darwin-universal.tar.gz"
 
