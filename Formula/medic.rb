@@ -4,7 +4,7 @@ class Medic < Formula
   license "MIT"
   url "https://github.com/synchronal/medic-rs"
   revision 0
-  version "2.4.1"
+  version "2.4.2"
 
   depends_on "medic-rs"
   depends_on "medic-ext-git"
