@@ -4,8 +4,8 @@ class MedicExtElixir < Formula
   license "MIT"
 
   revision 0
-  sha256 "44a6c55d29c7b578c998ae6cd4b40f9ca40621639d4f7f456f443d6284f95c9a"
-  version "0.2.0"
+  sha256 "1a71de42eb68dec3adde6955aad84a4fed8e12fcec132d0a08ced66b0d0a44a1"
+  version "0.2.1"
 
   url "https://github.com/synchronal/medic-ext-elixir/releases/download/v#{version}/medic-elixir-darwin-universal.tar.gz"
 
