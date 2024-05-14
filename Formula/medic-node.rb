@@ -4,10 +4,9 @@ class MedicNode < Formula
   desc "Medic language pack: Node"
   homepage "https://github.com/synchronal/medic-rs"
   license "MIT"
-  sha256 "f05aa88e71477151b7f775726bbf37a4f9a9b8fef69781b9827e792f6355f90d"
-  url "https://github.com/synchronal/medic-rs/releases/download/v0.2.0/medic-node-darwin-universal.tar.gz"
-  revision 1
-  version "0.2.0"
+  revision 0
+  url "https://github.com/synchronal/medic-ext-node"
+  version "0.4.0"
 
   depends_on "medic-ext-node"
 
