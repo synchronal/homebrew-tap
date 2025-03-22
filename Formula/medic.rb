@@ -3,7 +3,7 @@ class Medic < Formula
   homepage "https://github.com/synchronal/medic-rs"
   license "MIT"
   url "https://github.com/synchronal/medic-rs"
-  revision 0
+  revision 1
   version "2.9.1"
 
   depends_on "medic-rs" => ["#{version}"]
