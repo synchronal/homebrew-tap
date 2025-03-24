@@ -6,7 +6,7 @@ class MedicRust < Formula
   license "MIT"
   revision 0
   url "https://github.com/synchronal/medic-ext-rust"
-  version "0.5.0"
+  version "1.0.0"
 
   depends_on "medic-ext-rust"
 

@@ -4,8 +4,8 @@ class MedicExtRust < Formula
   license "MIT"
 
   revision 0
-  sha256 "dea63949b7c98d2fc1b093d005f6ec887b34e463d8f1274adf664ef8a3101f96"
-  version "0.5.0"
+  sha256 "669aa8fd79f679504a13450446900522c9a73b0d5f5bf3450eaef88ea6d112e3"
+  version "1.0.0"
 
   url "https://github.com/synchronal/medic-ext-rust/releases/download/v#{version}/medic-ext-rust-darwin-universal.tar.gz"
 
