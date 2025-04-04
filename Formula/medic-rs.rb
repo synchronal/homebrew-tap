@@ -3,9 +3,9 @@ class MedicRs < Formula
   homepage "https://github.com/synchronal/medic-rs"
   license "MIT"
 
-  revision 1
-  sha256 "35e43aae70ca62d39db22b4f8823e6301f9078bf136181f69d1a8f25da824e0c"
-  version "2.9.1"
+  revision 0
+  sha256 "2941b2922172712fcb3221bd4513349e8075e00d271582c8fbfee4a1ad5a7130"
+  version "2.9.2"
 
   url "https://github.com/synchronal/medic-rs/releases/download/v#{version}/medic-darwin-universal.tar.gz"
 

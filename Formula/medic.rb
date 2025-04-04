@@ -3,8 +3,8 @@ class Medic < Formula
   homepage "https://github.com/synchronal/medic-rs"
   license "MIT"
   url "https://github.com/synchronal/medic-rs"
-  revision 1
-  version "2.9.1"
+  revision 0
+  version "2.9.2"
 
   depends_on "medic-rs" => ["#{version}"]
   depends_on "medic-ext-git"
