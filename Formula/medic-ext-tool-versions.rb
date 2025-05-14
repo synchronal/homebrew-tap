@@ -4,8 +4,8 @@ class MedicExtToolVersions < Formula
   license "MIT"
 
   revision 0
-  sha256 "6c3bd686aab1d173219b4980a0d35649f298ab158d770a7af76ce66c0423fa4b"
-  version "1.0.0"
+  sha256 "82b68cfad33e8839b1f4d3c4e4ccf3cebdb965b7d6344648dca717555a1d5156"
+  version "1.0.1"
 
   url "https://github.com/synchronal/medic-ext-tool-versions/releases/download/v#{version}/medic-ext-tool-versions-darwin-universal.tar.gz"
 
