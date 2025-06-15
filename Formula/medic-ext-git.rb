@@ -4,8 +4,8 @@ class MedicExtGit < Formula
   license "MIT"
 
   revision 0
-  sha256 "06ef11f2b4b4a110a666a229e6c2ba39ca259d0b553e586386d6b926d5380b49"
-  version "0.3.0"
+  sha256 "dcaf0cbbfb69b23027e58020d4609e8d2079f58cfe95243739f89a5d7b9d6f2c"
+  version "1.0.0"
 
   url "https://github.com/synchronal/medic-ext-git/releases/download/v#{version}/medic-ext-git-darwin-universal.tar.gz"
 
