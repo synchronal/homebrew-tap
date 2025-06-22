@@ -4,8 +4,8 @@ class MedicExtNode < Formula
   license "MIT"
 
   revision 0
-  sha256 "76c782c91736e03d8980840f273dd7231da41350618afb3e8832b322e874ddbc"
-  version "0.4.0"
+  sha256 "12c612f55d182fab53b4a8ed6a0c0acd51c71945b5d60370141ea16e07baa61e"
+  version "1.0.0"
 
   url "https://github.com/synchronal/medic-ext-node/releases/download/v#{version}/medic-ext-node-darwin-universal.tar.gz"
 
