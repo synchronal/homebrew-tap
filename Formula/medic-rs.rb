@@ -4,8 +4,8 @@ class MedicRs < Formula
   license "MIT"
 
   revision 0
-  sha256 "33a47daf62f5d64f42fcf47420afb33e6408c73c0820c12e5f23b1290b90eea3"
-  version "2.17.0"
+  sha256 "9a4798f86a607c72b7900d7cffd96e8a62d1368666b3ffd7b4584d95fa17b456"
+  version "2.18.0"
 
   url "https://github.com/synchronal/medic-rs/releases/download/v#{version}/medic-darwin-universal.tar.gz"
 
