@@ -5,7 +5,7 @@ class Medic < Formula
   url "https://github.com/synchronal/medic-rs"
 
   revision 0
-  version "2.18.0"
+  version "2.18.1"
 
   depends_on "medic-rs"
   depends_on "medic-ext-git"
