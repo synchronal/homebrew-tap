@@ -16,8 +16,6 @@ class Paca < Formula
     sha256 "a21c2852871b17d93f34b6f499f4ba41c59d04bc84274dd5121e4cada7d5006e"
   end
 
-  depends_on "git"
-
   def install
     bin.install "paca"
   end
