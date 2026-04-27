@@ -2,16 +2,16 @@ class Dyd < Formula
   desc "Daily Diff"
   homepage "https://github.com/synchronal/dyd"
   license "MIT"
-  version "1.11.2"
+  version "1.11.3"
 
   on_arm do
     url "https://github.com/synchronal/dyd/releases/download/v#{version}/dyd-darwin-arm64.tar.gz"
-    sha256 "e27321ed3f62e58de5a7ed447cd7e2decd10b7cfbdd386e55b2877a191e252ec"
+    sha256 "e9e9daec00ac1be3eab354e5023936be1f3a3a8d81635dd68643f52da84f22f6"
   end
 
   on_intel do
     url "https://github.com/synchronal/dyd/releases/download/v#{version}/dyd-darwin-x86_64.tar.gz"
-    sha256 "492b994fbea7d2b65c41cafc132ee05e2c0fadfb1ea4ea8ba7b09325169fbac5"
+    sha256 "ae82f3bbaab697495f2f5ccec77340bb81a54bacd5eb9df64da446b898abb3f0"
   end
 
   depends_on "git"
