@@ -4,16 +4,16 @@ class Paca < Formula
   license "MIT"
 
   revision 0
-  version "0.1.2"
+  version "0.2.0"
 
   on_arm do
     url "https://github.com/synchronal/paca/releases/download/v#{version}/paca-darwin-arm64.tar.gz"
-    sha256 "3b56a72571a67b1db51f0b15deef13ece2def28181c3c65a7adfa41d0f33a270"
+    sha256 "4af988bec7d3a810cd9a029941b6b384283b3591149cbb4e67baf195d655fb21"
   end
 
   on_intel do
     url "https://github.com/synchronal/paca/releases/download/v#{version}/paca-darwin-x86_64.tar.gz"
-    sha256 "4fc6f3116cd42eb7be94c4e96ac87bd1411ed4618ee165ab5b933c3d292e1186"
+    sha256 "f7b961dacbca3c02831deeb3bd727bc15f8a19945a12a7273d9c4b1def27231b"
   end
 
   def install
