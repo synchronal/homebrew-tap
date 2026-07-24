@@ -4,16 +4,16 @@ class MedicRs < Formula
   license "MIT"
 
   revision 0
-  version "2.22.0"
+  version "2.23.0"
 
   on_arm do
     url "https://github.com/synchronal/medic-rs/releases/download/v#{version}/medic-darwin-arm64.tar.gz"
-    sha256 "59c52d7e2c7018437b4e99f2dfc832a1c4a6709774d40cd8edeb6c8a26c0bb89"
+    sha256 "6bb67f1389dba57f4439302652c649abd51dc0fa12db338bfceb1fc474154810"
   end
 
   on_intel do
     url "https://github.com/synchronal/medic-rs/releases/download/v#{version}/medic-darwin-x86_64.tar.gz"
-    sha256 "9ef53619eb7150d48e8fccd6873be7fbd07901bd1c6a2adaf226b491c3127f5d"
+    sha256 "2482e2d03dbd1695089023d3aa92a58dd117fab3286127044c4f42024d72a50a"
   end
 
   depends_on "git"
